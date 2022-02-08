@@ -10,7 +10,7 @@ Discord: Urki Mii#1234
 
 ### random thing i will put here cause i dont even know what to add to this
 
-every beat saber mod has awful optimization
+i like bred
 
 <!--
 **UrkiMimi/UrkiMimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
