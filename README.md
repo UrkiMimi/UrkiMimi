@@ -1,6 +1,3 @@
-my main goal is to blow up and act like i dont know nobody
+hi i do stupid shit and a fulltime college student.
 
-
-Developer who's interested in making games. I know Python, C#, and a part of Unity ShaderLab.
-
-Below are some pinned repositories that I've developed/worked on.
+i know python, c#, and some HLSL. 
